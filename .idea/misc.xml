@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/drawable/ic_file.xml" value="0.2555" />
         <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/drawable/ic_pause_blue.xml" value="0.1435" />
         <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/drawable/ic_play_blue.xml" value="0.1435" />
-        <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/layout/activity_main.xml" value="0.176" />
-        <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/layout/item_audio.xml" value="0.25" />
+        <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/drawable/message.xml" value="0.2555" />
+        <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/drawable/message_user.xml" value="0.235" />
+        <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/layout/item_audio.xml" value="0.264" />
         <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/layout/item_for_list_chat.xml" value="0.176" />
+        <entry key="..\:/Users/Ksy/AndroidStudioProjects/RecordPlayer/app/src/main/res/layout/item_message_user.xml" value="0.25" />
       </map>
     </option>
   </component>

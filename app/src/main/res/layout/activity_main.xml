@@ -10,7 +10,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#FFFFFF"
+        android:background="#E1ECE4"
         tools:context=".MainActivity">
 
         <androidx.constraintlayout.widget.ConstraintLayout
@@ -62,16 +62,17 @@
                 app:cardCornerRadius="14dp"
                 app:cardElevation="@null"
                 app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toStartOf="@+id/textSend"
+                app:layout_constraintEnd_toStartOf="@+id/imageSend"
                 app:layout_constraintStart_toEndOf="@+id/imageFile"
                 app:layout_constraintTop_toTopOf="parent"/>
 
-            <TextView
-                android:id="@+id/textSend"
+            <ImageView
+                android:id="@+id/imageSend"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="10dp"
-                android:text="Отправить"
+                android:clickable="false"
+                android:src="@drawable/ic_send_grey"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
